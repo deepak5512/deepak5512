@@ -1,3 +1,5 @@
+![logo](https://github.com/deepak5512/deepak5512/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Deepak Bhatter</h1>
 <h3 align="center">A passionate MERN Stack developer & Engineer from India</h3>
 
