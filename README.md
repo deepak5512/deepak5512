@@ -19,5 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak5512&show_icons=true&locale=en" alt="deepak5512" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak5512&" alt="deepak5512" /></p>
 
